@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/vatsh95/adobe-commerce-storefront-test/
+    type: markup
+
+folders:
+  /products/: /products/default
